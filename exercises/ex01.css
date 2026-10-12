@@ -1,0 +1,44 @@
+HTML {
+    background-color: rgb(142, 135, 109)
+}
+
+A {
+    color: rgb(193, 141, 18)
+}
+
+UL {
+    color: rgb(156, 14, 14);
+}
+
+H1 {
+    background: rgba(0, 0, 0, 0.262);
+    color: rgb(255, 197, 6);
+    font-weight: normal;
+
+}
+
+H2 {
+    color: rgb(156, 14, 14)
+}
+
+H2 {
+    background: rgba(75, 23, 4, 0.194)
+}
+
+P {
+    color: rgb(166, 101, 15);
+}
+
+P {
+    background-color: rgba(128, 116, 73, 0.678);
+    padding: 20px;
+    margin: 20px;
+    font-size: 20px;
+}
+
+IMG {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 70%
+}

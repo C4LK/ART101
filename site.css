@@ -1,0 +1,16 @@
+
+body {
+    background: #768ea0;
+    padding: 70px;
+}
+
+h1,
+h2,
+h3 {
+    color: #272258;
+    font-family: sans-serif;
+}
+
+img{
+    width: 200px;
+}
