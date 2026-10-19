@@ -1,0 +1,26 @@
+body{
+    background-image: url("trees.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1{
+    color: rgb(50, 5, 5)
+}
+
+img {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container2{
+    display: flex;
+}
